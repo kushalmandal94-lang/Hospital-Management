@@ -1,0 +1,23 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ring" x1="40" y1="40" x2="280" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="160" cy="160" r="126" stroke="url(#ring)" stroke-width="8"/>
+  <circle cx="160" cy="160" r="108" stroke="#1D4ED8" stroke-opacity="0.3" stroke-width="4"/>
+
+  <path d="M92 126C114 130 127 118 138 104" stroke="#1D4ED8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M228 126C206 130 193 118 182 104" stroke="#1D4ED8" stroke-width="10" stroke-linecap="round"/>
+
+  <path d="M116 178C116 150 137 134 160 134C183 134 204 150 204 178" stroke="#1D4ED8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M160 134V212" stroke="#1D4ED8" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="160" cy="186" r="24" fill="#E0F2FE" stroke="#1D4ED8" stroke-width="4"/>
+  <path d="M147 186H173" stroke="#1D4ED8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M160 173V199" stroke="#1D4ED8" stroke-width="6" stroke-linecap="round"/>
+
+  <text x="160" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1D4ED8">EST. 2024</text>
+  <text x="160" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="2" fill="#1D4ED8">KUSHAL HOSPITALS</text>
+</svg>
