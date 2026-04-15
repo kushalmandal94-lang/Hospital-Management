@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "*.ts": "typescript",
+    "*.tsx": "typescriptreact"
+  },
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": true,
+  "typescript.tsdk": "frontend/node_modules/typescript/lib",
+  "markdownlint.enabled": false,
+  "markdownlint.run": "onSave",
+  "markdownlint.ignore": [
+    "**/.vscode/extensions/**"
+  ],
+  "markdownlint.config": {
+    "MD022": false,
+    "MD029": false,
+    "MD031": false,
+    "MD032": false,
+    "MD040": false
+  }
+}
